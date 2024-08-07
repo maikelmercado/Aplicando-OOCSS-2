@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.box.container {
+  margin: 20px auto;
+  width: 400px;
+}
+
+/* HTML  clase 2 metodlogia 18/julio/2024*/
+.box {
+  margin: 10px auto;
+  width: 90%;
+  height: 65px;
+  border-radius: 5px;
+}
+
+.box img {
+  height: 100%;
+  position: relative;
+  float: left;
+}
+
+/* Colors */
+.box h3 {
+  font-size: 36px;
+  position: relative;
+  float: right;
+  margin-right: 30px;
+  color: #fff;
+  font-weight: bold;
+}
+.box-html {
+  background-color: #e93e30;
+}
+.box-css {
+  background-color: #299ed5;
+}
+.box-js {
+  background-color: #f7e018;
+}
+
+
+
